@@ -1,0 +1,35 @@
+html{
+  font-family: informapro, sans-serif;
+  color: $midnight;
+  background: $midnight;
+}
+
+.responsive-container{
+  padding: $space-desktop $site-margin-desktop;
+  margin: 0px auto;
+  max-width: $site-max-width;
+}
+
+.full-bleed{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+}
+
+
+//fonts
+
+.title--1{
+  font-size: 70px;
+  line-height: 65px;
+  font-family: informapro, sans-serif;
+  font-weight: 500;
+}
+
+.body--3{
+  font-size: 18px;
+  line-height: 28px;
+  font-family: 'Noto Serif', serif;
+}
