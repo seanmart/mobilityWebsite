@@ -4,6 +4,10 @@ html{
   background: $midnight;
 }
 
+main{
+  min-height: 100vh;
+}
+
 .responsive-container{
   padding: $space-desktop $site-margin-desktop;
   margin: 0px auto;
