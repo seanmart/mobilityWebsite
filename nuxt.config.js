@@ -17,6 +17,7 @@ export default {
       { src: "https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.1/ScrollTrigger.min.js",body: true}
     ]
   },
+  target: 'static',
   css: [
     "~assets/scss/reset.scss",
     "~assets/scss/global.scss"
